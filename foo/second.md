@@ -9,6 +9,6 @@ for i in range(10):
     print(i)
 ```
 
-$a^2$
+$$a^2$$
 
 `numpy.array()`
