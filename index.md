@@ -39,6 +39,8 @@ end
 
 #### Header 4
 
+$$ x = y^2 + \mu $$
+
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
