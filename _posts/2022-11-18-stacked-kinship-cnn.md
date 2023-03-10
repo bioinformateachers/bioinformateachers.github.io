@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Stacked kinship CNN vs. GBLUP for genomic predictions of additive and complex continuous phenotypes"
 date: 2022-11-18 12:30:00 -0000
 categories: STATISTICS DEEP-LEARNING GENOMIC-PREDICTIONS
@@ -14,4 +14,11 @@ The preprint was available since 10 August 2022 on [ResearchSquare](https://www.
  FROM sys.tables
  WHERE [name] = 'SomeTable'
  ```
+
+```r
+library("ggplot2")
+data(ChickWeights)
+
+fit = lm(weight ~ diet + age, data=ChickWeight)
+```
  

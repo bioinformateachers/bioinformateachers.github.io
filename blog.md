@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog Page
+title: List of all posts in the blog
 ---
 
 <ul>
@@ -9,4 +9,8 @@ title: Blog Page
 {% endfor %}
 </ul>
 
+{% if page.author %}
+  {% include author/{{page.author}}.html %}
+{% endif %}
 
+[back](./)
