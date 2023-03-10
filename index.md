@@ -9,4 +9,8 @@ layout: default
 <h1>{{ site.posts.first.title }}</h1>
 {{ site.posts.first.content }}
 
+$$
+y = x^2 + \phi
+$$
+
 [back](./)
