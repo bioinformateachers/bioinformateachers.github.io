@@ -28,7 +28,7 @@ the particle can be in either state 0 or state 1, with probability 50% (Schroedi
 When I measure it, I will know the particle on the earth is in state 0, and I also automatically know that 
 the entangled particle in a far, far away galaxy is in state 1. 
 But this does not imply any exchange of information between the two particles, nor the two places. 
-Any observer in the far, far away galaxy will have to measure its particle of the entangled pair to be able to know it’s state, and this will be "1".
+Any observer in the far, far away galaxy will have to measure its particle of the entangled pair to be able to know it's state, and this will be "1".
 
 It is true, we on the earth will know in advance that the entangled particle in the far, far away galaxy is in state 1, 
 but the only way for us to communicate this is at speed lower than or at most equal to light.
