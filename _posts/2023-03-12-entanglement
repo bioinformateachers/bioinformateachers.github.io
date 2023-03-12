@@ -2,7 +2,7 @@
 layout: post
 title:  "A super-brief note on entanglement"
 date:   2023-03-10 10:00:01 +0100
-categories: jekyll update
+categories: science, physics
 ---
 
 Today, I am borrowing from a field of science other than what I usually do (biostatistics, bioinformatics, genetics): physics, 
@@ -24,11 +24,11 @@ Was Albert Einstein wrong? No, Einstein was not wrong, and the two entangled par
 Here's what happens (extreme simplification inside): we have two entangled particles, one on the Earth, the other in a galaxy far, far away. 
 The two particles are entangled in reverse phase, so that if one particle is in state 0, the other will be in state 1, and vice versa. 
 So let’s say that we want to measure the state of the particle here on the Earth: according to quantum mechanics, until we measure it, 
-the particle can be in either state 0 or state 1, with probability 50% (Schroedinger’s cat: rings a bell?). 
+the particle can be in either state 0 or state 1, with probability 50% (Schroedinger's cat: rings a bell?). 
 When I measure it, I will know the particle on the earth is in state 0, and I also automatically know that 
 the entangled particle in a far, far away galaxy is in state 1. 
 But this does not imply any exchange of information between the two particles, nor the two places. 
-Any observer in the far, far away galaxy will have to measure its particle of the entangled pair to be able to know it’s state, and this will be “1”.
+Any observer in the far, far away galaxy will have to measure its particle of the entangled pair to be able to know it’s state, and this will be "1".
 
 It is true, we on the earth will know in advance that the entangled particle in the far, far away galaxy is in state 1, 
 but the only way for us to communicate this is at speed lower than or at most equal to light.
