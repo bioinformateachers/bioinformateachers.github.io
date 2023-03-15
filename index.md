@@ -8,6 +8,4 @@ layout: default
 <h1>{{ site.posts.first.title }}</h1>
 {{ site.posts.first.content | replace: "\[", "\\\[" | replace: "\]", "\\\]" }}
 
-$$y = x^2 + \phi$$
-
 [back](./)
