@@ -58,6 +58,35 @@ By simplifying the problem, **Naive Bayes** introduces some *bias* but **reduces
 We expect to see a great pay-oﬀ to using naive Bayes in instances where *p* is large or *n* is small, 
 so that **reducing the variance is very important** (the bias-variance trade-off).
 
-![naive-bayes-tuning](img/naive_bayes_tuning.png)
+### Further (important) details
+
+1. the data can be transformed (e.g. normalized) and an estimator may need to be chosen 
+(Gaussian, histogram frequency, kernel density, class frequency for categorical variables etc.): 
+**transformations** of the data and **selection of the estimator(s)** are part of the modelling and **fine-tuning process**.
+2. **Caveat**: when $$ P(x_p | y=k) = 0 $$ (a specific value of the $$x_p$$ predictor never occurs in class *k*), 
+the overall likelihood of the data under the Naive Bayes assumption would go to zero (product of all $x_p$) 
+$$\rightarrow$$ the **Laplace smoother**: adds a small number to the frequencies for each feature (variable, predictor) in class *k* 
+(how much? $$\rightarrow$$ again, a tuning hyperparameter!)
+
+### An example in R
+There are many `R packages` that implement the **Naive Bayes classifier in R**: e.g. `e1071`, `klaR`, `naivebayes`, `bnclassify`, `caret`, `h2o`
+
+Here we look at an illustration using the `caret + klaR` packages 
+(`caret` is a wrapper for many other R packages that provide a unified framework for statistical/machine learning).
+
+As example, data on the root vigor (yes/no) and SNP genotypes of sugar beet (Beta vulgaris) are used. 
+The dataset comes from [Biscarini et al. 2016](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0136-4), 
+and contains $$15\%$$ swapped labels (classes).
+
+The datasets is a `data.frame` with *n* samples (rows) and *m* columns (the predictor variables – SNP genotypes coded as 0/1/2 in tyhis case). 
+One additional column is the class (label): in this case, 0/1 for presence/absence of root vigor. 
+Initially, we read the data (`data.table::fread()`) then change the label to a factor 
+(to avoid it being confused as a numeric value), and convert the data to a `tibble` (details [here](https://tibble.tidyverse.org/)) 
+\[if you want, you can try the code below with the [Iris flower dataset](https://archive.ics.uci.edu/ml/datasets/iris): 
+in `R`, `data(iris)`: Species is the target class to predict based on four sepal and petal variables \]
+
+
+![naive-bayes-tuning](~/img/naive_bayes_tuning.png)
+
 
 
