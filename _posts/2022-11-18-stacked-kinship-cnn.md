@@ -6,8 +6,7 @@ author: Filippo Biscarini, Nelson Nazzicari
 categories: STATISTICS DEEP-LEARNING GENOMIC-PREDICTIONS
 ---
 
-Our latest work on deep learning for genomic predictions is out [Scientific Reports](https://www.nature.com/articles/s41598-022-24405-0)
-
+Our latest work on deep learning for genomic predictions is out [Scientific Reports](https://www.nature.com/articles/s41598-022-24405-0).  
 The preprint was available since 10 August 2022 on [ResearchSquare](https://www.researchsquare.com/article/rs-1932443/v1)
 
-![stacked-kinship-cnn](img/rev1_Figure2.png) 
+![stacked-kinship-cnn](/img/rev1_Figure2.png) 
