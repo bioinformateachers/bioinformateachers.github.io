@@ -10,4 +10,4 @@ Our latest work on deep learning for genomic predictions is out [Scientific Repo
 
 The preprint was available since 10 August 2022 on [ResearchSquare](https://www.researchsquare.com/article/rs-1932443/v1)
 
- 
+![stacked-kinship-cnn](img/rev1_Figure2.png) 
