@@ -17,3 +17,7 @@ layout: default
 - Genetic Inheritance: investigating the mechanisms of genetic transmission in phenotypes with different degrees of additivity, dominance and epistasis
 - Polyploid genomes: extending the bioinformatics and genomics toolkit from diploid to polyploid species (e.g. *Medicago sativa*, *Triticum aestivum*, *Triticum durum*)
 
+***
+
+[old website](https://bioinformateachers.wordpress.com/)
+
