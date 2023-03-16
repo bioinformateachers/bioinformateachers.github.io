@@ -2,8 +2,7 @@
 ![filippo-biscarini](img/IMG-20200805-WA0005.jpg)
 
 Filippo Biscarini, Ph.D.
-**Biostatistician** @ CNR
-
+**Biostatistician** @ CNR   
 *Bioinformatics, biostatistics, genomics, machine learning, deep learning*
 
 >National Research Council (CNR) <br />
