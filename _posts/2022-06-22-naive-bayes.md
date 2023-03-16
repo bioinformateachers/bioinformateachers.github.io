@@ -85,8 +85,12 @@ Initially, we read the data (`data.table::fread()`) then change the label to a f
 \[if you want, you can try the code below with the [Iris flower dataset](https://archive.ics.uci.edu/ml/datasets/iris): 
 in `R`, `data(iris)`: Species is the target class to predict based on four sepal and petal variables \]
 
+```r
+rootv = mutate(rootv, classe = as.factor(classe)) %>% 
+	as_tibble()
+```
 
-![naive-bayes-tuning](~/img/naive_bayes_tuning.png)
+![naive-bayes-tuning](/img/naive_bayes_tuning.png)
 
 
 
