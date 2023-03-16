@@ -11,7 +11,7 @@ categories: STATISTICS CLASSIFICATION BAYES R
 Naive Bayes is a probabilistic classifier based on i) **Bayes' theorem** and 
 ii) a strong ("**Naive**") **assumption** on the **independence of all $$p$$ features** (variables) within each class.
 
-### Naive Bayes: the gist of it
+## Naive Bayes: the gist of it
 
 - resource efficient & fast
 - scales well
@@ -58,7 +58,7 @@ By simplifying the problem, **Naive Bayes** introduces some *bias* but **reduces
 We expect to see a great pay-oﬀ to using naive Bayes in instances where *p* is large or *n* is small, 
 so that **reducing the variance is very important** (the bias-variance trade-off).
 
-### Further (important) details
+## Further (important) details
 
 1. the data can be transformed (e.g. normalized) and an estimator may need to be chosen 
 (Gaussian, histogram frequency, kernel density, class frequency for categorical variables etc.): 
@@ -68,7 +68,7 @@ the overall likelihood of the data under the Naive Bayes assumption would go to 
 $$\rightarrow$$ the **Laplace smoother**: adds a small number to the frequencies for each feature (variable, predictor) in class *k* 
 (how much? $$\rightarrow$$ again, a tuning hyperparameter!)
 
-### An example in R
+## An example in R
 There are many `R packages` that implement the **Naive Bayes classifier in R**: e.g. `e1071`, `klaR`, `naivebayes`, `bnclassify`, `caret`, `h2o`
 
 Here we look at an illustration using the `caret + klaR` packages 
@@ -83,14 +83,75 @@ One additional column is the class (label): in this case, 0/1 for presence/absen
 Initially, we read the data (`data.table::fread()`) then change the label to a factor 
 (to avoid it being confused as a numeric value), and convert the data to a `tibble` (details [here](https://tibble.tidyverse.org/)) 
 \[if you want, you can try the code below with the [Iris flower dataset](https://archive.ics.uci.edu/ml/datasets/iris): 
-in `R`, `data(iris)`: Species is the target class to predict based on four sepal and petal variables \]
+in `R`, `data(iris)`: Species is the target class to predict based on four sepal and petal variables\]
 
 ```r
 rootv = mutate(rootv, classe = as.factor(classe)) %>% 
 	as_tibble()
 ```
 
+First, a little preprocessing:
+
+```r
+## remove predictors with zero variance
+nzv0 = nearZeroVar(rootv[rootv$classe=="0",], saveMetrics = TRUE)
+nzv1 = nearZeroVar(rootv[rootv$classe=="1",], saveMetrics = TRUE)
+ 
+nzv = (nzv0$nzv | nzv1$nzv)
+nzv[length(nzv)] <- FALSE ## this is the target label, obviously with zero variance within class (restored to FALSE to be kept in the data)-nzv
+ 
+rootv = rootv[, !(nzv)]
+```
+
+Then, we set up the model: split in training and test data partitions, specify the cross-validation setting 
+and the grid value for the hyperparameters to tune.
+
+```r
+## 1) data split
+split <- initial_split(rootv, prop = .8, strata = "classe")
+train <- training(split)
+test  <- testing(split)
+ 
+## 2) create response and feature data
+features <- setdiff(names(train), "classe")
+x <- train[, features]
+y <- train$classe
+ 
+## 3) set up 5-fold cross validation procedure
+train_control <- trainControl(
+  method = "cv", 
+  number = 5
+  )
+ 
+## 4) set up tuning grid
+search_grid <- expand.grid(
+  usekernel = c(TRUE, FALSE),
+  fL = 0:3,
+  adjust = seq(1, 5, by = 1) ## bandwidth of the kernel density estimator (larger values --> more flexible estimator)
+)
+```
+
+Now we can train the model: we see that we are better off with the Gaussian estimate of the predictor variable densities 
+(the key ingredients of Naive Bayes!) and there's no need of the Laplace smoother (no variables with zero density within class).
+
+```r
+# train model
+nb.m2 <- train(
+  x = x,
+  y = y,
+  method = "nb",
+  trControl = train_control,
+  tuneGrid = search_grid
+  )
+```
+
 ![naive-bayes-tuning](/img/naive_bayes_tuning.png)
 
+Finally, we make predictions on the test set and we get a final **accuracy of 0.76** (6 wrong predictions on the 25 test observations).
 
+```r
+## making predictions on the test set
+pred <- predict(nb.m2, newdata = test)
+confusionMatrix(pred, test$classe)
+```
 
