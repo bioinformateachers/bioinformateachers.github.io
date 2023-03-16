@@ -2,7 +2,8 @@
 layout: post
 title:  "A super-brief note on entanglement"
 date:   2023-03-10 10:00:01 +0100
-categories: science, physics
+author: Filippo Biscarini
+categories: SCIENCE, PHYSICS
 ---
 
 Today, I am borrowing from a field of science other than what I usually do (biostatistics, bioinformatics, genetics): physics, 
