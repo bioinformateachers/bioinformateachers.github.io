@@ -1,6 +1,6 @@
 ---
+layout: default
 title: List of posts by category
-layout: post
 ---
 
 <ul>
