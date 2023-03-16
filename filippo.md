@@ -6,10 +6,8 @@ Filippo Biscarini, Ph.D.
 
 *Bioinformatics, biostatistics, genomics, machine learning, deep learning*
 
->National Research Council (CNR)
-
->Institute for Biology and Biotechnology
-
+>National Research Council (CNR) <br />
+>Institute for Biology and Biotechnology   
 >Via Bassini n. 15, 20133 Milan (Italy)
 
 - filippo.biscarini [at] cnr.it
