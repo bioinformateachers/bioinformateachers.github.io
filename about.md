@@ -4,7 +4,7 @@ layout: default
 
 ## Who we are
 
-[Filippo Biscarini](./filippo.html) | [Nelson Nazzicari](./)
+[Filippo Biscarini](./filippo.html) | [Nelson Nazzicari](./nelson.html)
 
 
 ***
