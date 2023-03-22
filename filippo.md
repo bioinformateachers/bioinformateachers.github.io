@@ -66,17 +66,23 @@ Current projects include: deep neural network models for image, sound, text and 
 
 #### Alumni
 
-Very smart people which I had the honor of mentoring:
+Very smart people who I had the honor of mentoring:
 
-- Sowah Addo
-- Michael Kramer
-- Eva-Maria Pirker
-- Giulia Masetti
-- Chiara Broccanello
-- Xavier Zaoui
-- Giorgio Chessari
 - Tania Bobbo
 - Chiara Gini
+- Chiara Broccanello
+- Giorgio Chessari
+- Giulia Masetti
+- Xavier Zaoui
+- Eva-Maria Pirker
+- Daniel Pitt
+- Jody Leigh Edmunds
+- Silvia Sandrini
+- Laura Filippone Pavesi
+- Mona Hashemi
+- Sowah Addo
+- Michael Kramer
+- Farhad Vahidi
 
 #### Education
 
