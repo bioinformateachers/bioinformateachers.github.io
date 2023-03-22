@@ -35,4 +35,4 @@ The sketch below illustrates the relative positions of the barcode, adapter, pri
 Of course, everything is in duplicate (forward and reverse directions). 
 [graphical work by Chiara Gini (Ph.D. student, University of Milan, 2022)]
 
-![ampliseq-construct](struttura-della-sequenza-output-del-sequenziamento-1.png)
+![ampliseq-construct](/img/struttura-della-sequenza-output-del-sequenziamento-1.png)
