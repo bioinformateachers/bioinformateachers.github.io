@@ -2,7 +2,7 @@
 layout: post
 title:  "Amplicon sequencing: a quick look at the construct"
 date:   2022-06-11 10:00:01 +0100
-categories: bioinformatics, microbiome
+categories: BIOINFORMATICS, MICROBIOME
 ---
 
 In short, **amplicon sequencing** refers to the technology that amplifies (makes several copies of) 
