@@ -68,21 +68,21 @@ Current projects include: deep neural network models for image, sound, text and 
 
 Very smart people who I had the honor of mentoring:
 
-- Tania Bobbo
-- Chiara Gini
-- Chiara Broccanello
-- Giorgio Chessari
-- Giulia Masetti
-- Xavier Zaoui
-- Eva-Maria Pirker
-- Daniel Pitt
-- Jody Leigh Edmunds
-- Silvia Sandrini
-- Laura Filippone Pavesi
-- Mona Hashemi
-- Sowah Addo
-- Michael Kramer
-- Farhad Vahidi
+- [Tania Bobbo](https://ibba.cnr.it/en/staff/tania-bobbo/) (2022 - ongoing)
+- [Chiara Gini](https://www.researchgate.net/profile/Chiara-Gini) (2021 - ongoing)
+- [Chiara Broccanello](https://www.dbt.univr.it/?ent=persona&id=72613) (2013 - ongoing)
+- [Giorgio Chessari](https://www.di3a.unict.it/dottorandi/giorgio.chessari) (2022 - ongoing)
+- [Giulia Masetti](https://www.researchgate.net/profile/Giulia-Masetti-2) (2015 - 2023)
+- [Xavier Zaoui](https://www.linkedin.com/in/xavier-k-zaoui/?originalSubdomain=it) (2020)
+- [Eva-Maria Pirker](https://blest.unibocconi.eu/who-we-are/phd-students/eva-maria-pirker) (2019)
+- [Daniel Pitt](https://orcid.org/0000-0002-8429-2957) (2016 - 2020)
+- [Jody Leigh Edmunds](https://www.researchgate.net/profile/Jody-Edmunds-2) (2017 - ongoing)
+- [Silvia Sandrini](https://www.unimi.it/it/ugov/person/silvia-sandrini) (2022 - ongoing)
+- [Laura Filippone Pavesi](https://www.ospedaleveterinario.unimi.it/staff/laura-filippone-pavesi-clinica-dei-ruminanti-e-del-suino/) (2022 - ongoing
+- [Mona Hashemi](https://www.researchgate.net/profile/Mona-Hashemi-2) (2017 - 2018)
+- [Sowah Addo](https://www.researchgate.net/profile/Sowah-Addo) (2009 - 2010)
+- Michael Kramer (2010 - 2011)
+- [Farhad Vahidi](https://www.researchgate.net/profile/Sm-Farhad-Vahidi) (2010 - 2011)
 
 #### Education
 
