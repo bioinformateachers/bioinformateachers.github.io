@@ -72,6 +72,7 @@ Very smart people who I had the honor of mentoring:
 - [Chiara Gini](https://www.researchgate.net/profile/Chiara-Gini) (2021 - ongoing)
 - [Chiara Broccanello](https://www.dbt.univr.it/?ent=persona&id=72613) (2013 - ongoing)
 - [Giorgio Chessari](https://www.di3a.unict.it/dottorandi/giorgio.chessari) (2022 - ongoing)
+- [Rafaela Martins Morasi](https://www.researchgate.net/profile/Rafaela-Morasi) (2023 - ongoing\)
 - [Giulia Masetti](https://www.researchgate.net/profile/Giulia-Masetti-2) (2015 - 2023)
 - [Xavier Zaoui](https://www.linkedin.com/in/xavier-k-zaoui/?originalSubdomain=it) (2020)
 - [Eva-Maria Pirker](https://blest.unibocconi.eu/who-we-are/phd-students/eva-maria-pirker) (2019)
