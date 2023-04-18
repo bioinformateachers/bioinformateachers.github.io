@@ -39,13 +39,17 @@ Current projects include: deep neural network models for image, sound, text and 
 #### Dissemination
 
 - founding member of The Bioinformateachers
-- teacher at Physalia courses (freie Universit&auml;at Berlin):
+- teacher at Physalia courses (freie Universit&auml;t Berlin):
 	- [since 2018] Introduction to GWAS
 	- [since 2020] Introduction to Machine Learning  
 	- [since 2020] Introduction to Deep Learning
 	- [since 2023] Analysis of longitudinal data
 - teacher at the University of Pisa:
 	- [since 2023] Animal breeding and genetics
+- teacher at the University of Catania:
+	- [2013] Molecular microbiology and statistical epidemiology
+- assistant teacher at Wageningen University:
+	- [2009] Animal breeding and genetics
 
 #### Research positions
 
