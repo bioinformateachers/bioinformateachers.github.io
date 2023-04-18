@@ -21,6 +21,14 @@ Under this perspective, the socioeconomic status will be a **random variable**, 
 In mathematical notation, we can write down the following (simplified) model:
 
 $$
-\text{math_score}_{ijk}
+\text{math_score}_{ijkz} = \mu + \text{school_type}_j + \text{school_avg}_k + \text{socioeconomic_status}_z + e_{ijkz}
 $$
 
+where $\mu$ is the intercept and $e_{ijkz}$ is the residual term.
+
+In this mini-series of posts we will concentrate on **applications to life sciences**, specifically **genetics** and **breeding** (plant & animal).
+
+Given that some amount of **algebraic notation** is needed to discuss mixed models, we have prepared a rendered html page for our theoretical background, 
+plus an R worked-out illustration in an R markdown file that you can find in our github repo.
+
+Next up: from BLUP to GBLUP!
