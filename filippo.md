@@ -48,21 +48,21 @@ Current projects include: deep neural network models for image, sound, text and 
 
 #### Research positions
 
-- [since 2018] Senior Scientist at CNR (National Research Council, Milan, Italy)
-- [2018-2020] Seconded National Expert on Data Science at ERCEA (European Research Council Ex. Agency, Bruxelles, Belgium)
-- [2017-2018] Marie-Curie Senior Biostatistician, Cardiff University (School of Medicine) (Cardiff, United Kingdom)
-- [2016-2018] Tenured Scientist at CNR (National Research Council, Milan, Italy)
-- [Feb 2017] UN-IAEA Expert Mission, Centre national de la recherche appliquée au développement rural (Antananarivo, Madagascar)
-- [2016] Researcher at the School of Biosciences, University of Teramo (Italy)
+- [since 2018] Senior Scientist at [CNR](https://www.cnr.it/en) (National Research Council, Milan, Italy)
+- [2018-2020] Seconded National Expert on Data Science at [ERCEA](https://erc.europa.eu/about-erc/erc-executive-agency) (European Research Council Ex. Agency, Bruxelles, Belgium)
+- [2017-2018] Marie-Curie Senior Biostatistician, Cardiff University ([School of Medicine](https://www.cardiff.ac.uk/medicine)) (Cardiff, United Kingdom)
+- [2016-2018] Tenured Scientist at [CNR](https://www.cnr.it/en) (National Research Council, Milan, Italy)
+- [Feb 2017] [UN-IAEA](https://www.iaea.org/) Expert Mission, Centre national de la recherche appliquée au développement rural (Antananarivo, Madagascar)
+- [2016] Researcher at the School of Biosciences, [University of Teramo](https://www.unite.it/UniTE/) (Italy)
 - [2014-2016] Principal Investigator at [PTP Science Park](https://www.ptp.it/en/homepage) (Lodi, Italy)
-- [Oct 2016] COST Short-Term Scientific Mission, IRTA (Institut de Recerca i Tecnologia Agroalimentàries) (Caldes de Montbui, Spain)
+- [Oct 2016] COST Short-Term Scientific Mission, [IRTA](https://www.irta.cat/es/) (Institut de Recerca i Tecnologia Agroalimentàries) (Caldes de Montbui, Spain)
 - [2011-2014] Marie-Curie post-doctoral researcher at [PTP Science Park](https://www.ptp.it/en/homepage) (Lodi, Italy)
-- [Mar 2013] ESF Visiting Scientist, Cardiff University (School of Biosciences) (Cardiff, UK)
-- [2010-2011] Post-doctoral researcher (Wissenschaftlicher Mitarbeiter), Georg-August Universit\"at (G\"ottingen, Germany)
-- [2006-2010] Marie-Curie Phd fellow, Wageningen University (Wageningen, The Netherlands)
+- [Mar 2013] ESF Visiting Scientist, Cardiff University ([School of Biosciences](https://www.cardiff.ac.uk/biosciences)) (Cardiff, UK)
+- [2010-2011] Post-doctoral researcher (Wissenschaftlicher Mitarbeiter), [Georg-August Universit\"at](https://www.uni-goettingen.de/) (G\"ottingen, Germany)
+- [2006-2010] Marie-Curie Phd fellow, [Wageningen University](https://www.wur.nl/) (Wageningen, The Netherlands)
 - [2003-2006] Quantitative Geneticist at the R\&D office of the  Italian Holstein Association ([ANAFIBJ](http://www.anafi.it/)) (Cremona, Italy)
-- [2005] Visiting scientist at the Centre for Genetic Improvement of Livestock (CGIL), University of Guelph (Guelph, Canada)
-- [2002] Data analyst and programmer at ICBF (Irish Cattle Breeders Federation) (Cork, Ireland)
+- [2005] Visiting scientist at the Centre for Genetic Improvement of Livestock ([CGIL](https://cgil.uoguelph.ca/)), University of Guelph (Guelph, Canada)
+- [2002] Data analyst and programmer at [ICBF](https://www.icbf.com/) (Irish Cattle Breeders Federation) (Cork, Ireland)
 
 #### Alumni
 
