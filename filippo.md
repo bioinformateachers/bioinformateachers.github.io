@@ -39,7 +39,7 @@ Current projects include: deep neural network models for image, sound, text and 
 #### Dissemination
 
 - founding member of The Bioinformateachers
-- teacher at Physalia courses (frei Universit\"at zu Berlin):
+- teacher at Physalia courses (freie Universit&auml;at Berlin):
 	- [since 2018] Introduction to GWAS
 	- [since 2020] Introduction to Machine Learning  
 	- [since 2020] Introduction to Deep Learning
@@ -59,7 +59,7 @@ Current projects include: deep neural network models for image, sound, text and 
 - [Oct 2016] COST Short-Term Scientific Mission, [IRTA](https://www.irta.cat/es/) (Institut de Recerca i Tecnologia Agroalimentàries) (Caldes de Montbui, Spain)
 - [2011-2014] Marie-Curie post-doctoral researcher at [PTP Science Park](https://www.ptp.it/en/homepage) (Lodi, Italy)
 - [Mar 2013] ESF Visiting Scientist, Cardiff University ([School of Biosciences](https://www.cardiff.ac.uk/biosciences)) (Cardiff, UK)
-- [2010-2011] Post-doctoral researcher (Wissenschaftlicher Mitarbeiter), [Georg-August Universit\"at](https://www.uni-goettingen.de/) (G\"ottingen, Germany)
+- [2010-2011] Post-doctoral researcher (Wissenschaftlicher Mitarbeiter), [Georg-August Universit&auml;t](https://www.uni-goettingen.de/) (G&ouml;ttingen, Germany)
 - [2006-2010] Marie-Curie Phd fellow, [Wageningen University](https://www.wur.nl/) (Wageningen, The Netherlands)
 - [2003-2006] Quantitative Geneticist at the R\&D office of the  Italian Holstein Association ([ANAFIBJ](http://www.anafi.it/)) (Cremona, Italy)
 - [2005] Visiting scientist at the Centre for Genetic Improvement of Livestock ([CGIL](https://cgil.uoguelph.ca/)), University of Guelph (Guelph, Canada)
