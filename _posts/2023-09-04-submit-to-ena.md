@@ -29,5 +29,8 @@ Ordered list of conceptual steps to undertake for data submission:
 
 ### How to submit
 
+- <u>Interactive</u>: via browser
+- <u>Webin-CLI</u>: command-Line Interface
+- <u>Programmatic</u>: XML + cURL
 
 
