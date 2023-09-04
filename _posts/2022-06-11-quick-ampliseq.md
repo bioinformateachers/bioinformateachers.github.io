@@ -33,6 +33,6 @@ impossible if sequencing is in multiplexing, i.e. mixed sequences from multiple 
 
 The sketch below illustrates the relative positions of the barcode, adapter, primer and target sequence. 
 Of course, everything is in duplicate (forward and reverse directions). 
-[graphical work by [Chiara Gini](./about.html) (Ph.D. student, University of Milan, 2022)]
+[graphical work by Chiara Gini (Ph.D. student, University of Milan, 2022)]
 
 ![ampliseq-construct](/img/struttura-della-sequenza-output-del-sequenziamento-1.png)
