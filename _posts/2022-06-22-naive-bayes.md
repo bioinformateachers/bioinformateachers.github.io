@@ -46,7 +46,7 @@ Mind you that these are the densities for individual variables in each class, i.
 These sub-components (**predictor variable densities per class**) are the **key ingredients** of the **Naive Bayes classifier**, 
 and can be estimated in a number of ways:
 
-- from **univariate normal distributions**: $$x_p|k$$ $$\sim N(mean(x_{pk}),var(x_{pk}))$$
+- from **univariate normal distributions**: $$x_p\|k$$ $$\sim N(mean(x_{pk}),var(x_{pk}))$$
 - non parametrically, as the fraction of the training observations in the $$ k_{th} $$ class that belong to the same **histogram bin** for the different values (ranges) of $$x_p$$
 - using a **kernel density estimator** (a smoothed version of the above histogram)
 - if $$x_p$$ is qualitative, from the relative frequencies of observations in class *k* having the different values of $$x_p$$ (e.g. proportions of males and females in the class)
