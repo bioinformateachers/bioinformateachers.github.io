@@ -44,6 +44,7 @@ Viale Piacenza, 29 - 26900 Lodi, Italy
 
 Very smart people which I had the honor of mentoring:
 
+* [Harkingto Harkingto](https://photosyntech.no/people/harkingto-harkingto/) (2023-ongoing)
 * [Margherita Crosta](https://genleg.crea.gov.it/index.php/2022/02/14/margherita-crosta) (2021 – ongoing)
 * [Salvador Osuna Caballero](https://www.researchgate.net/profile/Salvador-Osuna-Caballero) (2022)
 * [Verónica Vanesa Ergo](https://ri.conicet.gov.ar/author/61170) (2021)
