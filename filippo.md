@@ -73,9 +73,10 @@ Current projects include: deep neural network models for image, sound, text and 
 
 Very smart people who I had the honor of mentoring:
 
+- [Giulia Moscatelli](https://www.researchgate.net/profile/Giulia-Moscatelli) (2024 - ongoing)
 - [Tania Bobbo](https://ibba.cnr.it/en/staff/tania-bobbo/) (2022 - ongoing)
 - [Chiara Gini](https://www.researchgate.net/profile/Chiara-Gini) (2021 - ongoing)
-- [Chiara Broccanello](https://www.dbt.univr.it/?ent=persona&id=72613) (2013 - ongoing)
+- [Chiara Broccanello](https://www.dbt.univr.it/?ent=persona&id=72613) (2013 - 2023)
 - [Giorgio Chessari](https://www.di3a.unict.it/dottorandi/giorgio.chessari) (2022 - ongoing)
 - [Rafaela Martins Morasi](https://www.researchgate.net/profile/Rafaela-Morasi) (2023 - ongoing\)
 - [Giulia Masetti](https://www.researchgate.net/profile/Giulia-Masetti-2) (2015 - 2023)
