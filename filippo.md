@@ -98,3 +98,8 @@ Very smart people who I had the honor of mentoring:
 - [1996-2002] Master of Science in Veterinary Medicine (University of Perugia)
 - [1999] Erasmus Programme - Veterinary Epidemiology and Food Safety (Utrecht University, The Netherlands)
 
+#### Projects
+
+- 2024-2026: **Sheep-TreeSeq**: Scalable analysis of sheep genome diversity using tree sequences - [Royal Society - International Exchanges](https://royalsociety.org/grants/international-exchanges/) (**genomics**, **Principal Investigator**)
+- 2023-2025: **Polyploidbreeding 4.0**: Expanding the toolbox for cereal breeding: high-throughput genomics, 2D-3D phenomics and artificial intelligence for breeding with increasing genome complexity, from barley to durum and bread wheat - [PRIN 2022](https://prin.mur.gov.it/Iniziative/Detail?key=FiJNdaCuA71Xq3jYMAuZeQ%3D%3D). (**plant breeding: genomics, phenomics**, **Scientific coordinator**)
+
