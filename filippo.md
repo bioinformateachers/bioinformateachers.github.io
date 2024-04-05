@@ -78,6 +78,7 @@ Current projects include: deep neural network models for image, sound, text and 
 Very smart people who I had the honor of mentoring:
 
 - [Giulia Moscatelli](https://www.researchgate.net/profile/Giulia-Moscatelli) (2024 - ongoing)
+- [Delower Hossain](https://dottorati.unimi.it/vas/faculty/hossain-delower/) (2024 - ongoing)
 - [Tania Bobbo](https://ibba.cnr.it/en/staff/tania-bobbo/) (2022 - ongoing)
 - [Chiara Gini](https://www.researchgate.net/profile/Chiara-Gini) (2021 - ongoing)
 - [Chiara Broccanello](https://www.dbt.univr.it/?ent=persona&id=72613) (2013 - 2023)
@@ -127,9 +128,9 @@ Very smart people who I had the honor of mentoring:
 
 #### Awards
 
-- 16/12/2021: Premi per le migliori pubblicazioni DiSBA 2021: I frutti dell’eccellenza (award for best publication) – CNR (National Research Council) Award for co-authoring the publication ``Genetic mechanisms of critical illness in COVID-19'' (Nature volume 591, pages92–98 (2021))
-- 07/12/2018: Premi per le migliori pubblicazioni DiSBA 2021: I frutti dell’eccellenza (award for best publication) – CNR (National Research Council) Award for co-authoring the publication ``Convergent genomic signatures of domestication in sheep and goats'' (Nature Communications volume 9, Article number: 813 (2018) )
-- 25/11/2015: Premio Lombardy Dialogues: progetto spazi espositivi per la ricerca - EXPO 2015 (award for best publication) – CNR (National Research Council) Award for co-authoring the publication ``Predicting haplotype carriers from SNP genotypes in Bos taurus through linear discriminant analysis'' (Genetics Selection Evolution volume 47, Article number: 4 (2015))
+- 16/12/2021: Premi per le migliori pubblicazioni DiSBA 2021: I frutti dell'eccellenza (award for best publication) – CNR (National Research Council) Award for the publication "Genetic mechanisms of critical illness in COVID-19" (Nature volume 591, pages92–98 (2021))
+- 07/12/2018: Premi per le migliori pubblicazioni DiSBA 2021: I frutti dell'eccellenza (award for best publication) – CNR (National Research Council) Award for the publication "Convergent genomic signatures of domestication in sheep and goats" (Nature Communications volume 9, Article number: 813 (2018))
+- 25/11/2015: Premio Lombardy Dialogues: progetto spazi espositivi per la ricerca - EXPO 2015 (award for best publication) – CNR (National Research Council) Award forthe publication "Predicting haplotype carriers from SNP genotypes in Bos taurus through linear discriminant analysis" (Genetics Selection Evolution volume 47, Article number: 4 (2015))
 
 
 
