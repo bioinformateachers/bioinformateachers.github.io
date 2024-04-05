@@ -100,6 +100,9 @@ Very smart people who I had the honor of mentoring:
 
 #### Projects
 
-- 2024-2026: **Sheep-TreeSeq**: Scalable analysis of sheep genome diversity using tree sequences - [Royal Society - International Exchanges](https://royalsociety.org/grants/international-exchanges/) (**genomics**, **Principal Investigator**)
-- 2023-2025: **Polyploidbreeding 4.0**: Expanding the toolbox for cereal breeding: high-throughput genomics, 2D-3D phenomics and artificial intelligence for breeding with increasing genome complexity, from barley to durum and bread wheat - [PRIN 2022](https://prin.mur.gov.it/Iniziative/Detail?key=FiJNdaCuA71Xq3jYMAuZeQ%3D%3D). (**plant breeding: genomics, phenomics**, **Scientific coordinator**)
+- 2024-2026: **Sheep-TreeSeq**: Scalable analysis of sheep genome diversity using tree sequences - [Royal Society - International Exchanges](https://royalsociety.org/grants/international-exchanges/) (**graph algorithms, animal genomics**; **Principal Investigator**)
+- 2023-2025: **Polyploidbreeding 4.0**: Expanding the toolbox for cereal breeding: high-throughput genomics, 2D-3D phenomics and artificial intelligence for breeding with increasing genome complexity, from barley to durum and bread wheat - [PRIN 2022](https://prin.mur.gov.it/Iniziative/Detail?key=FiJNdaCuA71Xq3jYMAuZeQ%3D%3D). (**plant breeding: genomics, phenomics, neural networks, machine learning**; **Scientific coordinator**; [website](https://polyploidbreeding.ibba.cnr.it/))
+- 2020-2023: **Gen-COVID**: Impact of Host Genome on COVID-19 clinical variability. (**human genetics, clinical phenotypes**; **Principal Investigator**; [website](https://sites.google.com/dbm.unisi.it/gen-covid))
+- 2019-2023: **Freeclimb**: Fruit Crops Resilience to Climate Change in the Mediterranean Basin - [EU-PRIMA 2018](https://prima-med.org/). (**plant breeding: genomics, phenomics**; **Principal Investigator**; [website](https://primafreeclimb.com/project/))
+- 2018-2023: **SMARTER**: SMAll RuminanTs breeding for Efficiency and Resilience - [EU Horizon2020](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en). (**animal genomics and phenomics**; **team member**; [website](https://smarterproject.eu/))
 
