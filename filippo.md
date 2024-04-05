@@ -1,12 +1,15 @@
+---
+layout: default
+---
 
 ![filippo-biscarini](img/IMG-20200805-WA0005.jpg)
 
 Filippo Biscarini, Ph.D.
-**Biostatistician** @ CNR   
+**Biostatistician** @ CNR
 *Bioinformatics, biostatistics, genomics, machine learning, deep learning*
 
 >National Research Council (CNR) <br />
->Institute for Biology and Biotechnology   
+>Institute for Biology and Biotechnology
 >Via Bassini n. 15, 20133 Milan (Italy)
 
 - filippo.biscarini [at] cnr.it
