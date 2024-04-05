@@ -15,6 +15,7 @@ Filippo Biscarini, Ph.D.
 - filippo.biscarini [at] cnr.it
 - my [ResearchGate](https://www.researchgate.net/profile/Filippo-Biscarini-2)
 - my [Google Scholar](https://scholar.google.it/citations?user=aaBX3kcAAAAJ&hl=en)
+- my [Scopus](https://www.scopus.com/authid/detail.uri?authorId=25640857200)
 - my [institutional CNR page](https://ibba.cnr.it/staff/filippo-biscarini/)
 - my [Github](https://github.com/filippob/)
 
