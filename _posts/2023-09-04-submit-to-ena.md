@@ -12,7 +12,7 @@ ENA (European Nucleotide Archive) is the repository for sequence data hosted by 
 
 <u>Metadata</u>
 - **study** (project): accession number
-- **samples**: sequence data $\rightarrow$ checklist (e.g. taxon etc.) $x^2$
+- **samples**: sequence data $$\rightarrow$$ checklist (e.g. taxon etc.) $$x^2$$
 - **experiment**: sequencing experiment
 
 <u>Data files</u>
