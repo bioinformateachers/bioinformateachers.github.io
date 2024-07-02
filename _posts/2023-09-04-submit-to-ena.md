@@ -50,5 +50,7 @@ Add optional columns if relevant: e.g. `host taxid` (*Bos taurus*: 9913), `host 
 	- `project name`, the project accession number from point 1) (see above); 
 	- collection date, geographic location and coordinates; importantly, you need to fill in also the environmental context and medium (from [EnvironmentalOntology](https://github.com/EnvironmentOntology/envo/wiki/Using-ENVO-with-MIxS)): you can repeat the same ontology code for all fields (e.g. `UBERON_0001007`) 
 
+4. Upload the sample spreadsheet. This step can involve a number of iterations, as the EBI-ENA platform will run a number of check on the consistency of the information provided in the spreadsheet 
 
+5. Upload the **fastq files** to the EBI-ENA archive  
 
