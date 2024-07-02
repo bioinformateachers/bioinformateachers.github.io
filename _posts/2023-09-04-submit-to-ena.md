@@ -67,5 +67,7 @@ Remeber to download the accession file after registering the samples: this file 
 
 DONE!
 
+### Next steps
 
+How can we make this process a bit more automatic? In a next post we'll look at the programmatic way to upload sequencing files to the EBI-ENA archive.
 
