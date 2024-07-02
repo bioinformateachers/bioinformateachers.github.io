@@ -42,6 +42,7 @@ Add a project title and short description + abstract. Download the receipt: reme
 
 2. Register samples: download the spreadsheet template $$\rightarrow$$ Environmental Checklist $$\rightarrow$$ **GSC MIxS host associated**. Move `sample_alias` to the first column in the spreadsheet. 
 Add optional columns if relevant: e.g. `host taxid` (*Bos taurus*: 9913), `host body site` (gut), `host sex`.
+Remeber to download the accession file after registering the samples: this file will contain unique accession numbers for each sample, that will be needed later to match samples and fastq files. 
 
 3. Fill in the spreadsheet: 
 	- unique `sample_alias` and/or `sample_title` (name) from the mapping file (file of metadata); make sure that this is a unique ID also across experiments (sequence of 1, 2, 3 ... N is not a good choice)
@@ -59,5 +60,12 @@ Add optional columns if relevant: e.g. `host taxid` (*Bos taurus*: 9913), `host 
 	- issue the `prompt` command (from the command line), to disable the interactive mode (otherwise you'll be asked to confirm the upload of each fastq file)
 	- now, upload the file using `mput`: e.g. `mput *.fastq.gz`
 
-6. 
+6. Now you need to submit your reads: to do so, you have to download and fill the spreadsheet: 
+	- Download spreadsheet template for Read submission $$\rightarrow$$ Submit paired-end reads using two fastq files 
+	- fill it in with the file names (R1 and R2) and their respective md5 code, with the sample id (from the sample registration), and with additional info (e.g. project accession number etc.)
+	- upload the fastq files spreadsheet (the ENA platform will run some internal checks for file consistency)
+
+DONE!
+
+
 
