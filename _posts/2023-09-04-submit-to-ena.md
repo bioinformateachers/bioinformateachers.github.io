@@ -52,5 +52,12 @@ Add optional columns if relevant: e.g. `host taxid` (*Bos taurus*: 9913), `host 
 
 4. Upload the sample spreadsheet. This step can involve a number of iterations, as the EBI-ENA platform will run a number of check on the consistency of the information provided in the spreadsheet 
 
-5. Upload the **fastq files** to the EBI-ENA archive  
+5. Upload the **fastq files** to the EBI-ENA archive: here you'll need access to the server where your files are stored, or to your local computer provided with a Unix or MAC OS:
+	- first, identify the files that you need to upload (e.g. paired-end R1/R2 fastq files for the samples that you want to publish) and copy them to a temporary folder
+	- generate **md5sum check codes**: e.g. `for f in *.gz; do md5sum $f | awk '{ gsub(/.*\//,"",$2); print $2"\t" $1 }'; done >  md5sums.tsv`
+ 	- move to the temporary folder where the files are, and **connect to the EBI FTP server**: `ftp webin.ebi.ac.uk` (you'll need your webin login details: [here](https://www.ebi.ac.uk/ena/submit/webin/login))
+	- issue the `prompt` command (from the command line), to disable the interactive mode (otherwise you'll be asked to confirm the upload of each fastq file)
+	- now, upload the file using `mput`: e.g. `mput *.fastq.gz`
+
+6. 
 
