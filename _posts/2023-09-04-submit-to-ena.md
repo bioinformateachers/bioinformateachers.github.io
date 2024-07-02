@@ -40,5 +40,15 @@ With this method, you'll use a mix of the web-browser and the server command lin
 1. First, go to the [EBI-ENA](https://www.ebi.ac.uk/ena/submit/webin/login) website and register a study: from the dashboard, click on Register study.
 Add a project title and short description + abstract. Download the receipt: remember, you'll need the **project accession number** (e.g. PRJEB77087) to link samples and reads to the project/study.
 
-2. Register samples: download the spreadsheet template
+2. Register samples: download the spreadsheet template $$\rightarrow$$ Environmental Checklist $$\rightarrow$$ **GSC MIxS host associated**. Move `sample_alias` to the first column in the spreadsheet. 
+Add optional columns if relevant: e.g. `host taxid` (*Bos taurus*: 9913), `host body site` (gut), `host sex`.
+
+3. Fill in the spreadsheet: 
+	- unique `sample_alias` and/or `sample_title` (name) from the mapping file (file of metadata); make sure that this is a unique ID also across experiments (sequence of 1, 2, 3 ... N is not a good choice)
+	- `tax_id` (id codes from [NCBI](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi));
+	- `scientific_name`, the name associated to `tax_id` (e.g. bovine gut metagenome); 
+	- `project name`, the project accession number from point 1) (see above); 
+	- collection date, geographic location and coordinates; importantly, you need to fill in also the environmental context and medium (from [EnvironmentalOntology](https://github.com/EnvironmentOntology/envo/wiki/Using-ENVO-with-MIxS)): you can repeat the same ontology code for all fields (e.g. `UBERON_0001007`) 
+
+
 
