@@ -12,7 +12,7 @@ ENA (European Nucleotide Archive) is the repository for sequence data hosted by 
 
 <u>Metadata</u>
 - **study** (project): accession number
-- **samples**: sequence data $$\rightarrow$$ checklist (e.g. taxon etc.) $$x^2$$
+- **samples**: sequence data $$\rightarrow$$ checklist (e.g. taxon etc.)
 - **experiment**: sequencing experiment
 
 <u>Data files</u>
@@ -33,5 +33,12 @@ Ordered list of conceptual steps to undertake for data submission:
 - <u>Webin-CLI</u>: command-Line Interface
 - <u>Programmatic</u>: XML + cURL
 
-[TO BE CONTINUED]
+#### Interactive
+
+With this method, you'll use a mix of the web-browser and the server command line.
+
+1. First, go to the [EBI-ENA](https://www.ebi.ac.uk/ena/submit/webin/login) website and register a study: from the dashboard, click on Register study.
+Add a project title and short description + abstract. Download the receipt: remember, you'll need the **project accession number** (e.g. PRJEB77087) to link samples and reads to the project/study.
+
+2. Register samples: download the spreadsheet template
 
