@@ -60,9 +60,10 @@ Remeber to download the accession file after registering the samples: this file 
 	- issue the `prompt` command (from the command line), to disable the interactive mode (otherwise you'll be asked to confirm the upload of each fastq file)
 	- now, upload the file using `mput`: e.g. `mput *.fastq.gz`
 
+
 6. Now you need to submit your reads: to do so, you have to download and fill the spreadsheet: 
 	- Download spreadsheet template for Read submission $$\rightarrow$$ Submit paired-end reads using two fastq files 
-	- fill it in with the file names (R1 and R2) and their respective md5 code, with the sample id (from the sample registration), and with additional info (e.g. project accession number etc.)
+	- fill it in with the file names (R1 and R2) and their respective md5 code, with the sample id (from the sample registration), and with additional info (e.g. project accession number etc.) (an R script can be used for this task)
 	- upload the fastq files spreadsheet (the ENA platform will run some internal checks for file consistency)
 
 DONE!
