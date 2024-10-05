@@ -10,7 +10,7 @@ Filippo Biscarini, Ph.D.
 
 >National Research Council (CNR) <br />
 >Institute for Biology and Biotechnology
->Via Bassini n. 15, 20133 Milan (Italy)
+>Via A. Corti n. 12, 20133 Milan (Italy)
 
 - filippo.biscarini [at] cnr.it
 - my [ResearchGate](https://www.researchgate.net/profile/Filippo-Biscarini-2)
@@ -49,7 +49,9 @@ Current projects include: deep neural network models for image, sound, text and 
 	- [since 2020] Introduction to Deep Learning
 	- [since 2023] Analysis of longitudinal data
 - teacher at the University of Pisa:
-	- [since 2023] Animal breeding and genetics
+	- [2022-2024] Animal breeding and genetics
+- teacher at the Universities of Parma, Bari:
+	- [2023-2024] Introduction to Neural Netowrks for animal science
 - teacher at the University of Catania:
 	- [2013] Molecular microbiology and statistical epidemiology
 - assistant teacher at Wageningen University:
