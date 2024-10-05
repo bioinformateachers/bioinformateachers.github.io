@@ -105,6 +105,7 @@ Very smart people who I had the honor of mentoring:
 
 #### Projects
 
+- 2024-2026: **DeepMicroCore**: Harnessing the power of artificial intelligence to identify the core microbiome - [CNR-IVI bilateral agreement](https://www.cnr.it/en/bilateral-agreements/agreement/85/ivi-the-institute-for-artificial-intelligence-research-and-development-of-serbia) (**artificial intelligence**, **neural networks**, **core microbiome**; **Principal Investigator**; Project ID: 69001)
 - 2024-2026: **Sheep-TreeSeq**: Scalable analysis of sheep genome diversity using tree sequences - [Royal Society - International Exchanges](https://royalsociety.org/grants/international-exchanges/) (**graph algorithms, animal genomics**; **Principal Investigator**; Ref.: R3709)
 - 2023-2025: **Polyploidbreeding 4.0**: Expanding the toolbox for cereal breeding: high-throughput genomics, 2D-3D phenomics and artificial intelligence for breeding with increasing genome complexity, from barley to durum and bread wheat - [PRIN 2022](https://prin.mur.gov.it/Iniziative/Detail?key=FiJNdaCuA71Xq3jYMAuZeQ%3D%3D). (**plant breeding: genomics, phenomics, neural networks, machine learning**; **Scientific coordinator**; G.A.: 2022BACN8A; [website](https://polyploidbreeding.ibba.cnr.it/))
 - 2020-2023: **Gen-COVID**: Impact of Host Genome on COVID-19 clinical variability. (**human genetics, clinical phenotypes**; **Principal Investigator**; [website](https://sites.google.com/dbm.unisi.it/gen-covid))
