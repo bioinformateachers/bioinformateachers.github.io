@@ -81,7 +81,9 @@ Very smart people who I had the honor of mentoring:
 
 - [Giulia Moscatelli](https://www.researchgate.net/profile/Giulia-Moscatelli) (2024 - ongoing)
 - [Delower Hossain](https://dottorati.unimi.it/vas/faculty/hossain-delower/) (2024 - ongoing)
-- [Tania Bobbo](https://ibba.cnr.it/en/staff/tania-bobbo/) (2022 - ongoing)
+- [Tania Bobbo](https://www.researchgate.net/profile/Tania-Bobbo) (2022 - ongoing)
+- [Arianna Manunza](https://ibba.cnr.it/staff/arianna-manunza/) (2022 - ongoing)
+- [Johanna Ram\'irez D\'iaz](https://ibba.cnr.it/staff/johanna-ramirez-diaz/) (2022 - ongoing)
 - [Chiara Gini](https://www.researchgate.net/profile/Chiara-Gini) (2021 - ongoing)
 - [Chiara Broccanello](https://www.dbt.univr.it/?ent=persona&id=72613) (2013 - 2023)
 - [Giorgio Chessari](https://www.di3a.unict.it/dottorandi/giorgio.chessari) (2022 - ongoing)
