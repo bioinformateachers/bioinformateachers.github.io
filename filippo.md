@@ -134,6 +134,10 @@ Very smart people who I had the honor of mentoring:
 - 2010-2014: **Low-input breeds**: Development of integrated livestock breeding and management strategies to improve animal health, product quality and performance in European organic and 'low input' milk, meat and egg production - [EU-FP7](https://cordis.europa.eu/programme/id/FP7). (**animal breeding: genetics, management, organic agriculture**; **team member**; G.A.: 222623; [website](https://cordis.europa.eu/project/id/222623))
 - 2006-2010: **Robustness in laying hens** - National Dutch project for the genetic improvement of laying hens better able to cope with changing farming environment (**animal breeding: genetics, statistics**; **Task leader statistical genetics**)
 
+#### Key note speeches
+
+- 22/11/2024: "Computer vision for plant phenotyping: the Polyploidbreeding 4.0 project and the AGRI-VISION initiative", Nordic-Baltic Plant Phenotyping Network (NBPPN) Workshop, Båstad (Sweden), November 21–22, 2024
+
 #### Awards
 
 - 16/12/2021: Premi per le migliori pubblicazioni DiSBA 2021: I frutti dell'eccellenza (award for best publication) – CNR (National Research Council) Award for the publication "Genetic mechanisms of critical illness in COVID-19" (Nature volume 591, pages92–98 (2021))
