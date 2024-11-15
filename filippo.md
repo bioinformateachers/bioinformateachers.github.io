@@ -134,12 +134,15 @@ Very smart people who I had the honor of mentoring:
 - 2010-2014: **Low-input breeds**: Development of integrated livestock breeding and management strategies to improve animal health, product quality and performance in European organic and 'low input' milk, meat and egg production - [EU-FP7](https://cordis.europa.eu/programme/id/FP7). (**animal breeding: genetics, management, organic agriculture**; **team member**; G.A.: 222623; [website](https://cordis.europa.eu/project/id/222623))
 - 2006-2010: **Robustness in laying hens** - National Dutch project for the genetic improvement of laying hens better able to cope with changing farming environment (**animal breeding: genetics, statistics**; **Task leader statistical genetics**)
 
-#### Key note speeches
+#### Invited speeches
 
-- 22/11/2024: "Computer vision for plant phenotyping: the Polyploidbreeding 4.0 project and the AGRI-VISION initiative", Nordic-Baltic Plant Phenotyping Network (NBPPN) Workshop, Båstad (Sweden), November 21–22, 2024
+- 22/11/2024: key note on ``Computer vision for plant phenotyping: the Polyploidbreeding 4.0 project and the AGRI-VISION initiative'', Nordic-Baltic Plant Phenotyping Network (NBPPN) Workshop, Båstad (Sweden)
+- 06/09/2018: ``Omic' approaches to identifying biomarkers in GO'' at the Cambridge Ophthalmological Symposium 2018, University of Cambridge (UK)
+- 30/10/2016: "The application of bioinformatics and biostatistics to dairy cattle fertility" at ESDAR (European Society for Domestic Animal Reproduction) 2016 Satellite Workshop, Lisbon (Portugal)
 
 #### Awards
 
+- 07/09/2023: Premio per l'originalità e la validit\`{a} scientifica della ricerca - 7° Congresso AITEL 2023 (award for best presentation) - AITel (Italian Dairy Association)
 - 16/12/2021: Premi per le migliori pubblicazioni DiSBA 2021: I frutti dell'eccellenza (award for best publication) – CNR (National Research Council) Award for the publication "Genetic mechanisms of critical illness in COVID-19" (Nature volume 591, pages92–98 (2021))
 - 07/12/2018: Premi per le migliori pubblicazioni DiSBA 2021: I frutti dell'eccellenza (award for best publication) – CNR (National Research Council) Award for the publication "Convergent genomic signatures of domestication in sheep and goats" (Nature Communications volume 9, Article number: 813 (2018))
 - 25/11/2015: Premio Lombardy Dialogues: progetto spazi espositivi per la ricerca - EXPO 2015 (award for best publication) – CNR (National Research Council) Award forthe publication "Predicting haplotype carriers from SNP genotypes in Bos taurus through linear discriminant analysis" (Genetics Selection Evolution volume 47, Article number: 4 (2015))
