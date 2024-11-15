@@ -151,6 +151,8 @@ Very smart people who I had the honor of mentoring:
 - 07/12/2018: Premi per le migliori pubblicazioni DiSBA 2021: I frutti dell'eccellenza (award for best publication) – CNR (National Research Council) Award for the publication "Convergent genomic signatures of domestication in sheep and goats" (Nature Communications volume 9, Article number: 813 (2018))
 - 25/11/2015: Premio Lombardy Dialogues: progetto spazi espositivi per la ricerca - EXPO 2015 (award for best publication) – CNR (National Research Council) Award forthe publication "Predicting haplotype carriers from SNP genotypes in Bos taurus through linear discriminant analysis" (Genetics Selection Evolution volume 47, Article number: 4 (2015))
 
+#### Hobbies
 
+Bridge, Waterpolo, Mystery Novels
 
 
