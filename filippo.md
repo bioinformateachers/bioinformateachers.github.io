@@ -142,7 +142,7 @@ Very smart people who I had the honor of mentoring:
 
 #### Thesis supervision
 
-- 27/09/2024: Member of **Doctoral Thesis Defense Committee**, PhD in Animal Production Science and Technology. "New insights for enhancing feed efficiency" by M\'{o}nica Mora Fenoll. Universitat Polit\'{e}cnica de Val\`{e}ncia (Spain)
+- 27/09/2024: Member of **Doctoral Thesis Defense Committee**, PhD in Animal Production Science and Technology. "New insights for enhancing feed efficiency" by Mónica Mora Fenoll. Universitat Politécnica de València (Spain)
 
 #### Awards
 
