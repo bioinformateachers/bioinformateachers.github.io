@@ -140,6 +140,10 @@ Very smart people who I had the honor of mentoring:
 - 06/09/2018: ``Omic' approaches to identifying biomarkers in GO'' at the Cambridge Ophthalmological Symposium 2018, University of Cambridge (UK)
 - 30/10/2016: "The application of bioinformatics and biostatistics to dairy cattle fertility" at ESDAR (European Society for Domestic Animal Reproduction) 2016 Satellite Workshop, Lisbon (Portugal)
 
+#### Thesis supervision
+
+- 27/09/2024: Member of **Doctoral Thesis Defense Committee**, PhD in Animal Production Science and Technology. "New insights for enhancing feed efficiency" by M\'{o}nica Mora Fenoll. Universitat Polit\'{e}cnica de Val\`{e}ncia (Spain)
+
 #### Awards
 
 - 07/09/2023: Premio per l'originalità e la validit\`{a} scientifica della ricerca - 7° Congresso AITEL 2023 (award for best presentation) - AITel (Italian Dairy Association)
@@ -147,6 +151,8 @@ Very smart people who I had the honor of mentoring:
 - 07/12/2018: Premi per le migliori pubblicazioni DiSBA 2021: I frutti dell'eccellenza (award for best publication) – CNR (National Research Council) Award for the publication "Convergent genomic signatures of domestication in sheep and goats" (Nature Communications volume 9, Article number: 813 (2018))
 - 25/11/2015: Premio Lombardy Dialogues: progetto spazi espositivi per la ricerca - EXPO 2015 (award for best publication) – CNR (National Research Council) Award forthe publication "Predicting haplotype carriers from SNP genotypes in Bos taurus through linear discriminant analysis" (Genetics Selection Evolution volume 47, Article number: 4 (2015))
 
+#### Hobbies
 
+Bridge, Waterpolo, Mystery Novels
 
 
