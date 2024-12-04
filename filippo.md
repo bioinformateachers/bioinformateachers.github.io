@@ -109,6 +109,7 @@ Very smart people who I had the honor of mentoring:
 
 #### Projects
 
+- 2025-2026: **PROB-AI**: Identifying novel probiotics from sequence data by means of artificial intelligence algorithms - [CNR-DISBA 2024 call for projects](https://www.urp.cnr.it/node/14158) (**probiotics**, **machine learning**, **bacterial genomic sequences**; **Principal Investigator**)
 - 2024-2026: **DeepMicroCore**: Harnessing the power of artificial intelligence to identify the core microbiome - [CNR-IVI bilateral agreement](https://www.cnr.it/en/bilateral-agreements/agreement/85/ivi-the-institute-for-artificial-intelligence-research-and-development-of-serbia) (**artificial intelligence**, **neural networks**, **core microbiome**; **Principal Investigator**; Project ID: 69001)
 - 2024-2026: **Sheep-TreeSeq**: Scalable analysis of sheep genome diversity using tree sequences - [Royal Society - International Exchanges](https://royalsociety.org/grants/international-exchanges/) (**graph algorithms, animal genomics**; **Principal Investigator**; Ref.: R3709)
 - 2023-2025: **MISS.GO**: Microbiota and Immune SignatureS of Graves’ disease and Orbitopathy - [PRIN 2022](https://prin.mur.gov.it/Ricerca?Filtro.Anno=%25&Filtro.Ateneo=%25&Filtro.Argomento=&Filtro.Cognome=Muller) (**Graves disease**, **orbitopathy**, **gut microbiome**, **gut-immune system axis**; **Task Leader: Microbiome**)
