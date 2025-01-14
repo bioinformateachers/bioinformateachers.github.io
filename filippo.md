@@ -154,6 +154,6 @@ Very smart people who I had the honor of mentoring:
 
 #### Hobbies
 
-Bridge, Waterpolo, Mystery Novels
+Bridge, Waterpolo, Guitar, Mystery Novels
 
 
