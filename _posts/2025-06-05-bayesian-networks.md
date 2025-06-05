@@ -10,13 +10,20 @@ categories: STATISTICS BAYES GRAPHS
 
 **Bayesian Networks** are described by: 
 
-1. a **DAG** (directed acyclic graph) $$G = (V,A)$$, with nodes $$v_i \in V$$ that represent random variables $$X_i$$
-2. a **probability distribution**
+1. a **DAG** (directed acyclic graph) $$G = (V,A)$$, with nodes $$v_i \in V$$ that represent random variables $$ X_i $$, and connections $$ a_{ij} = (v_i, v_j) $$ between nodes
+2. one or more **probability distributions**
 
-The objective of a Bayesian Network is to calculate conditional probabilities between variables:
+A DAG contains:
+
+- **only directed connections** $$ v_i \rightarrow v_j $$
+- **no bidirectional connections** $$ v_i \rightleftharpoons v_j $$
+- **no loops** (connection of a node/variable with itself: $$ v_i \rightarrow v_i $$)
+- **no cycles**
+
+The objective of a Bayesian Network is to **calculate conditional probabilities** between variables:
 
 $$
-P(X) = \pi_{i=1}^N P(X_i | \pi_{X_i}; \Theta_{X_i})
+P(X) = \Pi
 $$
 
 
