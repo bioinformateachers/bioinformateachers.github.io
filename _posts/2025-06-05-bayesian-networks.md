@@ -11,7 +11,7 @@ categories: STATISTICS BAYES GRAPHS
 **Bayesian Networks** are <u>probabilistic graphical models</u> and are described by: 
 
 1. a **DAG** (directed acyclic graph) $$G = (V,A)$$, with nodes $$v_i \in V$$ that represent random variables $$ X_i $$, and connections $$ a_{ij} = (v_i, v_j) $$ between nodes
-2. a **joint probability distribution** of the X variables $$ \P(X_1 = x_1, \ldots, X_n = x_n) = \Pi $$
+2. a **joint conditional probability distribution** of the X variables $$ P(X_1 = x_1, \ldots, X_n = x_n) = \Pi_{i=1} p(x_i | x_{Parents(i)}) $$
 
 A DAG contains:
 
