@@ -2,7 +2,7 @@
 layout: post
 title: "Bayesian Networks: a super-elementary overview"
 author: "Filippo Biscarini"
-date: "2025-06-55"
+date: "2025-06-05"
 categories: STATISTICS BAYES GRAPHS
 ---
 
