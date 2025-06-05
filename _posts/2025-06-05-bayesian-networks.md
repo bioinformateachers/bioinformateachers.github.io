@@ -14,7 +14,6 @@ categories: STATISTICS BAYES GRAPHS
 $$X_{i}$$, 
 and connections $$ e_{ij} = (v_i, v_j) $$ between nodes (E from "edges")
 2. a **joint conditional probability distribution** of the $$X$$ variables: $$P(X_1 = x_1, \ldots, X_n = x_n) = \Pi_{i=1}^N p(x_{i} \| x_{parents(i)})$$
-3. $$ P(A \| B) $$
 
 A DAG contains:
 
