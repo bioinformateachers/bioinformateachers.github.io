@@ -24,7 +24,7 @@ $$
 \text{math_score}_{ijkz} = \mu + \text{school_type}_j + \text{school_avg}_k + \text{socioeconomic_status}_z + e_{ijkz}
 $$
 
-where $\mu$ is the intercept and $e_{ijkz}$ is the residual term.
+where $$\mu$$ is the intercept and $$ e_{ijkz} $$ is the residual term.
 
 In this mini-series of posts we will concentrate on **applications to life sciences**, specifically **genetics** and **breeding** (plant & animal).
 
