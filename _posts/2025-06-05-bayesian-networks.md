@@ -30,9 +30,15 @@ Additionally, they should scale well and allow for complex inferential relations
 Bayesian Networks clearly show causal paths and highlight the presence of mediator variables, colliders, confounders etc. 
 
 Bayesian Networks can be thought of as a generalization of [Naive Bayes]({% post_url 2022-06-22-naive-bayes %}): 
-we move away from the naive assumption of independence of the predictor variables ($x_i$), 
+we move away from the naive assumption of independence of the predictor variables ($$x_i$$), 
 and basically replace the joint probability distribution given by the simple product of all predictor densities, 
 with the **product of conditional probabilities**.
 
+#### Applications
 
+- **cause-effect** relationships between variables The networks aim to be 
+- **descriptive**: Bayesian Networks show patterns and multivariate connections
+- **diagnostic**: reasoning (which diseases based on the symptoms)
+- **predictive**: predict future events based on current data (e.g. likelihood of a customer churning based on their past behavior)
+- **prescriptive**: i.e. decision making, in complex and uncertain environments (e.g. whether or not to launch a new product based on the probability of success given the current market conditions)
 
