@@ -26,7 +26,13 @@ The objective of a Bayesian Network is to **calculate conditional probabilities*
 calculations --and predictions-- can be made about any variables, with no distinction between dependent (target) and explanatory (factor) variables.
 
 Unlike many other statistical learning methods, Bayesian Networks can handle missing data.
-Additionally, they scale well and allow for complex inferential relationships.
+Additionally, they should scale well and allow for complex inferential relationships.
 Bayesian Networks clearly show causal paths and highlight the presence of mediator variables, colliders, confounders etc. 
+
+Bayesian Networks can be thought of as a generalization of [Naive Bayes]({% post_url 2022-06-22-naive-bayes %}): 
+we move away from the naive assumption of independence of the predictor variables ($x_i$), 
+and basically replace the joint probability distribution given by the simple product of all predictor densities, 
+with the **product of conditional probabilities**.
+
 
 
