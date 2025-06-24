@@ -15,7 +15,7 @@ of the (apparently) paradoxical phenomena that we encounter in our disciplines.
 Let's get started: we all know that, according to Einstein's relativity theory and experiments, in the universe there's nothing faster than light, right?
 
 Entanglement refers to the peculiar property of some particles -atoms, but more specifically subatomic particles- to be "intertwined" 
-in an almost magical way: such two particles can not be described independently from one another. 
+in an almost magical way: such two particles can not be described independently from one another (mathematically, they are described by the same wavefunction). 
 What this means, is that if we know the status of one such particles, the status of the other is also indissolubly determined, 
 even if the two particles are located in two different galaxies!
 
@@ -27,7 +27,7 @@ The two particles are entangled in reverse phase, so that if one particle is in 
 So let’s say that we want to measure the state of the particle here on the Earth: according to quantum mechanics, until we measure it, 
 the particle can be in either state 0 or state 1, with probability 50% (Schroedinger's cat: rings a bell?). 
 When I measure it, I will know the particle on the earth is in state 0, and I also automatically know that 
-the entangled particle in a far, far away galaxy is in state 1. 
+the entangled particle in a far, far away galaxy is in state 1 (the wavefunction is said to be collapsed: we now have particles!). 
 But this does not imply any exchange of information between the two particles, nor the two places. 
 Any observer in the far, far away galaxy will have to measure its particle of the entangled pair to be able to know it's state, and this will be "1".
 
