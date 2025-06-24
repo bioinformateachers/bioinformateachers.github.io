@@ -59,7 +59,8 @@ Current projects include: deep neural network models for image, sound, text and 
 
 #### Research positions
 
-- [since 2018] Senior Scientist at [CNR](https://www.cnr.it/en) (National Research Council, Milan, Italy)
+- [since 2025] Director of Research at [CNR](https://www.cnr.it/en) (National Research Council, Milan, Italy)
+- [2018-2025] Senior Scientist at [CNR](https://www.cnr.it/en) (National Research Council, Milan, Italy)
 - [2018-2020] Seconded National Expert on Data Science at [ERCEA](https://erc.europa.eu/about-erc/erc-executive-agency) (European Research Council Ex. Agency, Bruxelles, Belgium)
 - [2017-2018] Marie-Curie Senior Biostatistician, Cardiff University ([School of Medicine](https://www.cardiff.ac.uk/medicine)) (Cardiff, United Kingdom)
 - [2016-2018] Tenured Scientist at [CNR](https://www.cnr.it/en) (National Research Council, Milan, Italy)
