@@ -158,9 +158,9 @@ Very smart people who I had the honor of mentoring:
 
 #### Editor at
 
-- Frontiers in Genetics
-- Frontiers in Endocrinology
-- BMC Genomic Data
+- [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics?utm_source=google&utm_medium=paidsearch&utm_content&utm_campaign=jsub_jnlprom_08-25_fgene_en_nat_fois-reg13&gad_source=1&gad_campaignid=22872736684&gbraid=0AAAAAC_sJ7lp2wBJo8NsbIlsbaRLWcJ0g&gclid=CjwKCAjwtrXFBhBiEiwAEKen13numnS9UP_Y4V9BjmXRU8ouHn8COQUFlyceGXuJYrgpoVAu8kmRnRoCdhEQAvD_BwE)
+- [Frontiers in Endocrinology](https://www.frontiersin.org/journals/endocrinology?utm_source=google&utm_medium=paidsearch&utm_content&utm_campaign=jsub_jnlprom_08-25_fendo_en_nat_fois-reg13&gad_source=1&gad_campaignid=22893123552&gbraid=0AAAAAC_sJ7mY4WIxjaGJU4OBjRcvaqghR&gclid=CjwKCAjwtrXFBhBiEiwAEKen10_H-eY6qaeRtG5C0_FoIRUPZipyriL6ubHATU5x2XMcgEBvz1tSDRoCZtsQAvD_BwE)
+- [BMC Genomic Data](https://bmcgenomdata.biomedcentral.com/)
 - [BMC Hereditas](https://hereditasjournal.biomedcentral.com/)
 
 #### Hobbies
