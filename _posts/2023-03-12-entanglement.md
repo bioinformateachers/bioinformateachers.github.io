@@ -38,3 +38,5 @@ After measuring, the entanglement is resolved and the two particles remain froze
 
 So Einstein was right, nothing can go faster than light. 
 And entanglement remains one of the weirdest aspects of quantum mechanics, i.e. the physics of subatomic particles.
+
+(There's a humorous illustration of entanglement that uses socks: let's say that you take two socks, and you don’t know which one is the right sock and which one is the left sock. You throw one sock out of the window, and you wear the other on one foot, say the right foot. Now the other sock is the left one, in whichever part of the universe it is. And it knows it!)
