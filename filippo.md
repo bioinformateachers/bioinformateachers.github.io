@@ -106,6 +106,7 @@ Very smart people who I had the honor of mentoring:
 
 #### Education
 
+- [2025] Habilitation as Full Professor in Plant Breeding and Genetics
 - [2018] Habilitation as Associate and Full Professor in Animal Breeding and Genetics; Habilitation as Associate Professor in Plant Breeding and Genetics
 - [2006-2010] Doctor of Philosophy in Animal Breeding and Genomics (Wageningen University, The Netherlands)
 - [1996-2002] Master of Science in Veterinary Medicine (University of Perugia)
