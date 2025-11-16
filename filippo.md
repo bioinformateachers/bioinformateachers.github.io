@@ -157,6 +157,13 @@ Very smart people who I had the honor of mentoring:
 - 07/12/2018: Premi per le migliori pubblicazioni DiSBA 2018: I frutti dell'eccellenza (award for best publication) – CNR (National Research Council) Award for the publication "Convergent genomic signatures of domestication in sheep and goats" (Nature Communications volume 9, Article number: 813 (2018))
 - 25/11/2015: Premio Lombardy Dialogues: progetto spazi espositivi per la ricerca - EXPO 2015 (award for best publication) – CNR (National Research Council) Award forthe publication "Predicting haplotype carriers from SNP genotypes in Bos taurus through linear discriminant analysis" (Genetics Selection Evolution volume 47, Article number: 4 (2015))
 
+#### Editor at
+
+- [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics?utm_source=google&utm_medium=paidsearch&utm_content&utm_campaign=jsub_jnlprom_08-25_fgene_en_nat_fois-reg13&gad_source=1&gad_campaignid=22872736684&gbraid=0AAAAAC_sJ7lp2wBJo8NsbIlsbaRLWcJ0g&gclid=CjwKCAjwtrXFBhBiEiwAEKen13numnS9UP_Y4V9BjmXRU8ouHn8COQUFlyceGXuJYrgpoVAu8kmRnRoCdhEQAvD_BwE)
+- [Frontiers in Endocrinology](https://www.frontiersin.org/journals/endocrinology?utm_source=google&utm_medium=paidsearch&utm_content&utm_campaign=jsub_jnlprom_08-25_fendo_en_nat_fois-reg13&gad_source=1&gad_campaignid=22893123552&gbraid=0AAAAAC_sJ7mY4WIxjaGJU4OBjRcvaqghR&gclid=CjwKCAjwtrXFBhBiEiwAEKen10_H-eY6qaeRtG5C0_FoIRUPZipyriL6ubHATU5x2XMcgEBvz1tSDRoCZtsQAvD_BwE)
+- [BMC Genomic Data](https://bmcgenomdata.biomedcentral.com/)
+- [BMC Hereditas](https://hereditasjournal.biomedcentral.com/)
+
 #### Hobbies
 
 Bridge, Waterpolo, Guitar, Mystery Novels
