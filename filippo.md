@@ -143,6 +143,7 @@ Very smart people who I had the honor of mentoring:
 
 #### Invited speeches
 
+- 29/10/2025: ``Machine Learning applications in research related to agriculture and food science'', International Research Conference of the SLTC 2025 (IRC-SLTC 2025: https://irc.sltc.ac.lk/), Padukka (Sri Lanka) (webinar)
 - 22/11/2024: key note on ``Computer vision for plant phenotyping: the Polyploidbreeding 4.0 project and the AGRI-VISION initiative'', Nordic-Baltic Plant Phenotyping Network (NBPPN) Workshop, Båstad (Sweden)
 - 06/09/2018: ``Omic' approaches to identifying biomarkers in GO'' at the Cambridge Ophthalmological Symposium 2018, University of Cambridge (UK)
 - 30/10/2016: "The application of bioinformatics and biostatistics to dairy cattle fertility" at ESDAR (European Society for Domestic Animal Reproduction) 2016 Satellite Workshop, Lisbon (Portugal)
