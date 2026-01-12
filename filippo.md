@@ -80,6 +80,7 @@ Current projects include: deep neural network models for image, sound, text and 
 
 Very smart people who I had the honor of mentoring:
 
+. [Sachithra Yaddehige](https://unipd.academia.edu/SachithraKalhariYaddehige) (2025 - ongoing)
 - [Nicol Sartori](https://www.linkedin.com/in/nicolsartori/?originalSubdomain=it) (2025 - ongoing)
 - [Mahsa Dehnavi](https://scholar.google.com/citations?user=1tShe7cAAAAJ&hl=en) (2025 - ongoing)
 - [Giulia Moscatelli](https://www.researchgate.net/profile/Giulia-Moscatelli) (2024 - ongoing)
@@ -107,7 +108,7 @@ Very smart people who I had the honor of mentoring:
 #### Education
 
 - [2025] Habilitation as Full Professor in Plant Breeding and Genetics
-- [2018] Habilitation as Associate and Full Professor in Animal Breeding and Genetics; Habilitation as Associate Professor in Plant Breeding and Genetics
+- [2018] Habilitation as Full Professor in Animal Breeding and Genetics
 - [2006-2010] Doctor of Philosophy in Animal Breeding and Genomics (Wageningen University, The Netherlands)
 - [1996-2002] Master of Science in Veterinary Medicine (University of Perugia)
 - [1999] Erasmus Programme - Veterinary Epidemiology and Food Safety (Utrecht University, The Netherlands)
