@@ -154,7 +154,7 @@ Very smart people who I had the honor of mentoring:
 
 #### Awards
 
-- 12-13/11/2025: Best Presenter Award for the presentation ``PROB-AI: Identification of new probiotics from bacterial genomic sequences using machine learning algorithms'' - $$5^{th}$$ International Research Conference 2025, Sri Lanka Technology Campus
+- 12-13/11/2025: Best Presenter Award for the presentation ``PROB-AI: Identification of new probiotics from bacterial genomic sequences using machine learning algorithms'' - $$5^{th}$$ International Research Conference 2025 ([IRC 2025](https://irc.sltc.ac.lk/)), Sri Lanka Technology Campus
 - 07/09/2023: Premio per l'originalità e la validità scientifica della ricerca - 7° Congresso AITEL 2023 (award for best presentation) - AITel (Italian Dairy Association)
 - 16/12/2021: Premi per le migliori pubblicazioni DiSBA 2021: I frutti dell'eccellenza (award for best publication) – CNR (National Research Council) Award for the publication "Genetic mechanisms of critical illness in COVID-19" (Nature volume 591, pages92–98 (2021))
 - 07/12/2018: Premi per le migliori pubblicazioni DiSBA 2018: I frutti dell'eccellenza (award for best publication) – CNR (National Research Council) Award for the publication "Convergent genomic signatures of domestication in sheep and goats" (Nature Communications volume 9, Article number: 813 (2018))
