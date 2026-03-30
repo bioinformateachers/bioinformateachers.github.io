@@ -149,9 +149,16 @@ Very smart people who I had the honor of mentoring:
 - 06/09/2018: ``Omic' approaches to identifying biomarkers in GO'' at the Cambridge Ophthalmological Symposium 2018, University of Cambridge (UK)
 - 30/10/2016: "The application of bioinformatics and biostatistics to dairy cattle fertility" at ESDAR (European Society for Domestic Animal Reproduction) 2016 Satellite Workshop, Lisbon (Portugal)
 
+#### Latest talks
+
+- 27/03/2026: "Microbiomes: a scientific megatrend", CREA-GB Seminars (https://www.crea.gov.it/web/genomica-e-bioinformatica), Fiorenzuola (PC) (Italy) (in presence)
+- 26/03/2026: "Genetic parameters and demography of animal populations", 1st year Veterinary School, University of Pisa (Italy) (webinar) 
+- 12/03/2026: "Precision-farming applications in plants and animals", Red de Investigación en Ganadería de Precisión y Digitalización Animal (REDIGA: https://rediga.es/es) (Spain) (webinar)
+- 12/02/2026: "The Polyploidbreeding project", PRIN plenary congress on Current Research in Durum Wheat Sustainability (https://www.cnr.it/it/evento/20363/la-ricerca-italiana-per-la-sostenibilita-della-filiera-del-frumento-duro), Auditorium "Via rieti", Rome (Italy) (in presence)
+
 #### Thesis supervision and evaluation
 
-- 06/02/2026: Member of **Doctoral Thesis Defense Committee**, PhD in Veterinary Science and Food Safety. Four PhD thesis have been evaluated and discussed with the cnadidates. Università degli Studi di Padova (Italy)
+- 06/02/2026: Member of **Doctoral Thesis Defense Committee**, PhD in Veterinary Science and Food Safety. Four PhD thesis have been evaluated and discussed with the candidates ("Ciclo XXXVIII"). Università degli Studi di Padova (Italy)
 - 27/09/2024: Member of **Doctoral Thesis Defense Committee**, PhD in Animal Production Science and Technology. "New insights for enhancing feed efficiency" by Mónica Mora Fenoll. Universitat Politécnica de València (Spain)
 
 #### Awards
