@@ -149,8 +149,9 @@ Very smart people who I had the honor of mentoring:
 - 06/09/2018: ``Omic' approaches to identifying biomarkers in GO'' at the Cambridge Ophthalmological Symposium 2018, University of Cambridge (UK)
 - 30/10/2016: "The application of bioinformatics and biostatistics to dairy cattle fertility" at ESDAR (European Society for Domestic Animal Reproduction) 2016 Satellite Workshop, Lisbon (Portugal)
 
-#### Thesis supervision
+#### Thesis supervision and evaluation
 
+- 06/02/2026: Member of **Doctoral Thesis Defense Committee**, PhD in Veterinary Science and Food Safety. Four PhD thesis have been evaluated and discussed with the cnadidates. Università degli Studi di Padova (Italy)
 - 27/09/2024: Member of **Doctoral Thesis Defense Committee**, PhD in Animal Production Science and Technology. "New insights for enhancing feed efficiency" by Mónica Mora Fenoll. Universitat Politécnica de València (Spain)
 
 #### Awards
