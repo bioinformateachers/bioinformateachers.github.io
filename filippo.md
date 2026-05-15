@@ -48,6 +48,10 @@ Current projects include: deep neural network models for image, sound, text and 
 	- [since 2020] Introduction to Machine Learning  
 	- [since 2020] Introduction to Deep Learning
 	- [since 2023] Analysis of longitudinal data
+- teacher at the Catholic University of Piacenza:
+    - [2026] Summer School on AI for Research in Life Sciences
+    - [2025-2026] PhD School: "Towards Big Data - Informatic Tools for Data Manipulation (Part 2)"
+    - [2025] Summer School on Systems Biology
 - teacher at the University of Pisa:
 	- [2022-2024] Animal breeding and genetics
 - teacher at the Universities of Parma, Bari:
