@@ -4,8 +4,8 @@
 **Nelson Nazzicari**, Ph.D. <br>
 *Bioinformatics, genomic predictions, machine/deep learning, SNP calling, all things biomodeling*
 
-Tenured Scientist @ 
-CREA - Council for Agricultural Research and Analysis of Agricultural Economics <br>
+Tenured Senior Scientist @ 
+Council for Agricultural Research and Economics (CREA) <br>
 Research Centre for Animal Production and Aquaculture<br>
 Viale Piacenza, 29 - 26900 Lodi, Italy
 
@@ -18,6 +18,7 @@ Viale Piacenza, 29 - 26900 Lodi, Italy
 
 * Statistics and machine learning for inference and prediction
 * Genomics & co: population structure, genomic selection, association and diversity studies, metagenomics
+* Drone image analyis and data analysis for phenomics
 * Next Generation Sequencing: variant calling and related topics
 
 ### Dissemination
@@ -26,9 +27,12 @@ Viale Piacenza, 29 - 26900 Lodi, Italy
 * member of [Comintart](https://www.youtube.com/channel/UCMgjppN-5w5OAt67o2jzK7w) (Italian Committee for Artificial Intellingence)
 * teacher at Physalia school in Berlin:
 	* [since 2020] [Introduction to Deep Learning](https://www.physalia-courses.org/courses-workshops/course67/)
-	* [since 2022] [Data visualization in Python](https://www.physalia-courses.org/courses-workshops/course38/)
-* webmaster, Social Media Manager and member of [The international Legume Society](http://legumesociety.org/)
+	* [past course] [Data visualization in Python](https://www.physalia-courses.org/courses-workshops/course38/)
+	* [past course] [Longitudinal data analysis](https://www.physalia-courses.org/courses-workshops/longitudinal-data/)
+* webmaster, Social Media Manager and member of the scientific committee of [The international Legume Society](http://legumesociety.org/)
+    * host of the [ILS webinar series](https://www.youtube.com/@theinternationallegumesoci251)
 * affiliated to the [Centre of Excellence for Biodiversity and Molecular Plant Breeding](http://biodiv.iptpo.hr/?page_id=1261&lang=hr) based in Zagreb, Croatia
+* author of [Deep learning for life science](https://link.springer.com/book/10.1007/978-3-031-96852-5), edited by Springer
 
 ### Research positions
 
