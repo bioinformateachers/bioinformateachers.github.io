@@ -1,4 +1,4 @@
-<img src="img/nelson.jpg" alt="drawing" width="300"/>
+<img src="img/nelson.jpg" alt="something wicked this way comes" width="300"/>
 
 
 **Nelson Nazzicari**, Ph.D. <br>
@@ -18,8 +18,8 @@ Viale Piacenza, 29 - 26900 Lodi, Italy
 
 * Statistics and machine learning for inference and prediction
 * Genomics & co: population structure, genomic selection, association and diversity studies, metagenomics
+    * Next Generation Sequencing: variant calling and related topics
 * Drone image analyis and data analysis for phenomics
-* Next Generation Sequencing: variant calling and related topics
 
 ### Dissemination
 
@@ -36,20 +36,20 @@ Viale Piacenza, 29 - 26900 Lodi, Italy
 
 ### Research positions
 
-* [since Nov 2019] Scientist (then tenured scientist) at CREA
+* [since Nov 2019] Scientist (then tenured, then senior) at [CREA](https://www.crea.gov.it/)
 	* started working at CREA in September 2014 as a post doc
 * [Jan 2013 – Aug 2015] Hired scientist/statistician at [PTP – Parco Tecnologico Padano](https://www.ptp.it/), Lodi, Italy
 * [Oct 2011 – Jan 2013] Post doc and contracted professor at University of Pavia, Italy, Faculty of Engineering
-	* Professor for the course: “Fondamenti di informatica B, (Modulo di Fondamenti di Informatica) ING-INF/05”, focused on C programming
+	* Professor for the course: “Fondamenti di informatica B, (Modulo di Fondamenti di Informatica) ING-INF/05”, focused on C programming. University of Pavia, Italy
 * [Aug 2009 – Sept 2011] Research scholar at George Mason University, [Center for Secure Information Systems](http://csis.gmu.edu/), Fairfax, Virginia, USA
 
 
-### Alumni 
+### Alumni
 
 Very smart people which I had the honor of mentoring:
 
-* [Harkingto Harkingto](https://photosyntech.no/people/harkingto-harkingto/) (2023-ongoing)
-* [Margherita Crosta](https://genleg.crea.gov.it/index.php/2022/02/14/margherita-crosta) (2021 – ongoing)
+* [Harkingto Harkingto](https://photosyntech.no/people/harkingto-harkingto/) (2023-2026)
+* [Margherita Crosta](https://genleg.crea.gov.it/index.php/2022/02/14/margherita-crosta) (2021 – 2025)
 * [Salvador Osuna Caballero](https://www.researchgate.net/profile/Salvador-Osuna-Caballero) (2022)
 * [Verónica Vanesa Ergo](https://ri.conicet.gov.ar/author/61170) (2021)
 * [Zoe Andrijanić](https://www.researchgate.net/profile/Zoe-Andrijanic) (2021)
