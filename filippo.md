@@ -84,8 +84,9 @@ Current projects include: deep neural network models for image, sound, text and 
 
 Very smart people who I had the honor of mentoring:
 
-- [Amin Barahooei](https://www.researchgate.net/profile/Amin-Barahooei) (2026)
-- [Sachithra Yaddehige](https://unipd.academia.edu/SachithraKalhariYaddehige) (2025 - ongoing)
+- [Xenia Sarropoulou](https://imbbc.hcmr.gr/user/p-sarropoulou/) (2026 - ongoing)
+- [Amin Barahooei](https://www.researchgate.net/profile/Amin-Barahooei) (2026 - ongoing)
+- [Sachithra Yaddehige](https://unipd.academia.edu/SachithraKalhariYaddehige) (2025 - 2026)
 - [Nicol Sartori](https://www.linkedin.com/in/nicolsartori/?originalSubdomain=it) (2025)
 - [Mahsa Dehnavi](https://scholar.google.com/citations?user=1tShe7cAAAAJ&hl=en) (2025 - ongoing)
 - [Giulia Moscatelli](https://www.researchgate.net/profile/Giulia-Moscatelli) (2024 - ongoing)
