@@ -43,11 +43,13 @@ Current projects include: deep neural network models for image, sound, text and 
 #### Dissemination
 
 - founding member of The Bioinformateachers
+- workshops: 
+    - [2026] "Deep Learning for Life Sciences" University of Zagreb (Croatia)
 - teacher at Physalia courses (freie Universit&auml;t Berlin):
 	- [since 2018] Introduction to GWAS
 	- [since 2020] Introduction to Machine Learning  
 	- [since 2020] Introduction to Deep Learning
-	- [since 2023] Analysis of longitudinal data
+	- [2023-2025] Analysis of longitudinal data
 - teacher at the Catholic University of Piacenza:
     - [2026] Summer School on AI for Research in Life Sciences
     - [2025-2026] PhD School: "Towards Big Data - Informatic Tools for Data Manipulation (Part 2)"
