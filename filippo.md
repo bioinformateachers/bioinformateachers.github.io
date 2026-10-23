@@ -86,6 +86,7 @@ Current projects include: deep neural network models for image, sound, text and 
 
 Very smart people who I had the honor of mentoring:
 
+- Amal Ferchichi (2026)
 - Alice Branchi (2026)
 - [Xenia Sarropoulou](https://imbbc.hcmr.gr/user/p-sarropoulou/) (2026 - ongoing)
 - [Amin Barahooei](https://www.researchgate.net/profile/Amin-Barahooei) (2026 - ongoing)
